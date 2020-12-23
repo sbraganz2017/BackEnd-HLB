@@ -3,7 +3,7 @@ BackEnd para la aplicación del Hospital León Becerra
 # Manual Instalacion (Linux/Windows)
 1. Instalar Laragon Full de aquí: https://laragon.org/download/
 2. git clone https://github.com/sbraganz2017/BackEnd-HLB.git
-3 cd BackEnd-HLB/
+3. cd BackEnd-HLB/
 4. composer install
 5. crear instancia de base de datos: backendhlb
 6. php artisan migrate
